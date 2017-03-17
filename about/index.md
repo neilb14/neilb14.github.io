@@ -24,6 +24,6 @@ You can reach me at [`neilb@gravityfree.ca`][email] or [`@neilb14`][twitter].
 
 This blog is [open source][os] - spelling/grammar corrections are always welcome (and much appreciated) via Pull Requests.
 
-[os]: https://github.com/neilb14/neilb14.github.com
+[os]: https://github.com/neilb14/neilb14.github.io
 [email]: mailto:neilb@gravityfree.ca
 [twitter]: https://twitter.com/neilb14
