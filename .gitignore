@@ -1,0 +1,6 @@
+*.sw*
+_site/
+.sass-cache/
+.DS_Store
+.jekyll-metadata
+s3_website.yml

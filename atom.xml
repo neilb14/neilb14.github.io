@@ -1,0 +1,28 @@
+---
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Neil Bourgeois' Blog</title>
+ <link href="http://blog.gravityfree.ca/atom.xml" rel="self"/>
+ <link href="http://blog.gravityfree.ca/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://gravityfree.ca/</id>
+ <author>
+   <name>Neil Bourgeois</name>
+   <email>neilb@gravityfree.ca</email>
+   <url>neilb.me</url>
+ </author>
+
+ {% for post in site.posts %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://blog.gravityfree.ca{{ post.url }}"/>
+   <published>{{ post.date | date_to_xmlschema }}</published>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://neilb14.github.com{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+ 
+</feed>

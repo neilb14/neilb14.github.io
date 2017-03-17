@@ -1,0 +1,24 @@
+- name: Leadership
+  desc: |
+    Leaders build engagement and participation.
+  tag_name: leadership
+
+- name: Product Development
+  desc: |
+    Lessons and experiences in validating, building, and supporting software products.
+  tag_name: product_dev
+
+- name: Software Engineering
+  desc: |
+    Sharing stories, trends and best practices.
+  tag_name: software_engineering
+
+- name: Blockchain
+  desc: |
+    The next Internet.
+  tag_name: blockchain
+
+- name: Travel
+  desc: |
+    Observations from the road.
+  tag_name: travel

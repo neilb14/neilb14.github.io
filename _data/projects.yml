@@ -1,0 +1,12 @@
+- year: 2017
+  projects:
+    - name: Home Energy LED
+      url: https://github.com/neilb14/neurio
+      blurb: >
+        LED that changes color according to home energy usage. Stick in a conspicuous place as a reminder to reduce energy use.
+- year: 2016
+  projects:
+    - name: Flix for Kids
+      url: https://flixforkids.org
+      blurb: >
+        Limit what your kids can watch on Netflix and take control of the time they spend watching.
