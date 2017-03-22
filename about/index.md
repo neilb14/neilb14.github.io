@@ -6,7 +6,7 @@ skip_related: true
 
 Hi. I'm Neil Bourgeois.
 
-I love to solve hard problems. The hardest problems are plagued with uncertainty, risk and complexity. Solutions require that people work together towards a common vision. Usually they involve some degree of technology but they almost always require people to change.
+I love to solve hard problems. The hardest problems are plagued with uncertainty, risk and complexity. Solutions to these types of problems require that people work together towards a common vision. Usually they involve some degree of technology but they almost always require people to change.
 
 This intersection of problem, people and technology is where I'm at my best.
 
@@ -14,7 +14,7 @@ I live and [work](http://gravityfree.ca/) in Edmonton, Canada. I went to school 
 
 ---
 
-I'm a relentless self-developer and pursue mastery of my craft. While I spend a great deal of my time working with people I also usually have some kind of side-project I'm hacking on. I approach problems with a people-first perspective and believe that sometimes the simplest (but not easiest!) solution is to change hearts and minds.
+I'm a relentless self-developer and pursue mastery of my craft. While I spend a great deal of my time working with people I also usually have some kind of side-project I'm hacking on. I love the techincal aspect of Software Engineering but approach problems with a people-first perspective and believe that sometimes the simplest (but not easiest!) solution is to change hearts and minds.
 
 ---
 

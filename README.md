@@ -13,8 +13,8 @@ Spelling/grammar corrections are always welcome (and much appreciated :heart:) v
 ### License
 The following directories and their contents are Copyright Neil Bourgeois. You may not reuse anything therein without my permission:
 
+* _pages/
 * _posts/
-* talks/
 * static/
 
 All other directories and files are MIT Licensed.
