@@ -8,7 +8,7 @@ tags:
 date: 2017-04-25
 ---
 
-Robert M Pirsig, Zen and the Art of Motorcycle Maintenance passed away yesterday. Zen was about a motorcycle trip he and his son took across the US. But the book is not about motorcycles, adventure or Americana. It's really about philosophy and the human mind. Here's one of my favourite quotes from the book:
+Robert M Pirsig, author of Zen and the Art of Motorcycle Maintenance, passed away yesterday. Zen was about a motorcycle trip he and his son took across the US. But the book is not about motorcycles, adventure or Americana. It's really about philosophy and the human mind. Here's one of my favourite quotes from the book:
 
 > Normally screws are so cheap and small and simple you think of them as unimportant. But now, as your Quality awareness becomes stronger, you realize that this one, individual, particular screw is neither cheap nor small nor unimportant. Right now this screw is worth exactly the selling price of the whole motorcycle, because the motorcycle is actually valueless until you get the screw out. With this reevaluation of the screw comes a willingness to expand your knowledge of it.
 
