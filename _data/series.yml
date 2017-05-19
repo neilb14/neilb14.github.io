@@ -13,11 +13,6 @@
     Sharing stories, trends and best practices.
   tag_name: software_engineering
 
-- name: Blockchain
-  desc: |
-    The next Internet.
-  tag_name: blockchain
-
 - name: Travel
   desc: |
     Observations from the road.
