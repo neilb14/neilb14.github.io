@@ -32,7 +32,7 @@ But the winds of change are blowing again.
 
 ## The New Force: Rapid Craft Design
 Recently I came across the following diagram that changes the way I view the roadmap of Engineering tools:
-![Production Volume vs. Number of Variants]({{ site.url }}/static/20170519/volume-vs-variants.png)
+![Production Volume vs. Number of Variants](/static/20170519/volume-vs-variants.png)
 
 This diagram illustrates the movement in manufacturing to combine the flexibility of custom designs with the efficiency of mass production. In the coming years we will be able to construct many physical objects nearly instantly through componentization, robotics and 3D printing. Coupled with the driving force of lean production systems to reduce inventories using Just-In-Time fabrication there will be a great deal of pressure on the lead times for Engineering designs. Couching the trend in lean terms, Engineering will soon become the bottleneck.
 
